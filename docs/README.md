@@ -10,7 +10,7 @@ Whatsapp Button es un componente custom para colocar un botón que nos redirige 
 
 ### Paso 1 - Configuración Básica
 
-Español: Crear un nuevo repositorio usando el template de GitHub react-app-template.
+Crear un nuevo repositorio usando el template de GitHub react-app-template.
 
 ### Paso 2 - Clonación del repositorio
 
