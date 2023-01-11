@@ -51,7 +51,7 @@ Una vez realizadas las configuraciones necesarias de el componente  ejecutar el 
 
 ```json
 {
- "itgloberspartnercl.bullets-diagramation": "0.x"
+ "itgloberspartnercl.whatsapp-button": "0.x"
 }
 ```
 
@@ -100,7 +100,7 @@ Once the necessary configurations of the component have been made, execute the v
 
 ```json
 {
- "itgloberspartnercl.bullets-diagramation": "0.x"
+ "itgloberspartnercl.whatsapp-button": "0.x"
 }
 ```
 ## Contributors
