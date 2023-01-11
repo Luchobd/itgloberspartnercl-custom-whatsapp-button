@@ -80,10 +80,17 @@ Configure the Manifest.json based on the following example:
 
 ```json
 {
-"vendor": "itgloberspartnercl",
-"name": "bullets-diagramation",
-"version": "0.0.1",
-"title": "Bullets Diagramation",
+  "vendor": "itgloberspartnercl",
+  "name": "whatsapp-button",
+  "version": "0.0.1",
+  "title": "WhatsApp Button Component",
+  "description": "Component button for WhatsApp that will receive a phone, a logo and a message",
+  "builders": {
+    "react": "3.x",
+    "messages": "1.x",
+    "docs": "0.x",
+    "store": "0.x"
+  },
 }
 ```
 ## Step 4 - Install necessary apps
