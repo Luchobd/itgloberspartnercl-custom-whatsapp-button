@@ -1,6 +1,6 @@
 
 
-# BULLETS-DIAGRAMATION (Español)
+# WHATSAPP-BUTTON (Español)
 
 Whatsapp Button es un componente custom para colocar un botón que nos redirige a whatsapp.
 
@@ -27,14 +27,7 @@ Configurar el Manifest.json basado en el siguiente ejemplo:
   "vendor": "itgloberspartnercl",
   "name": "whatsapp-button",
   "version": "0.0.1",
-  "title": "WhatsApp Button Component",
-  "description": "Component button for WhatsApp that will receive a phone, a logo and a message",
-  "builders": {
-    "react": "3.x",
-    "messages": "1.x",
-    "docs": "0.x",
-    "store": "0.x"
-  },
+  "title": "WhatsApp Button Component"
 }
 ```
 ## Paso 4 - Instalar apps necesarias
@@ -56,7 +49,7 @@ Una vez realizadas las configuraciones necesarias de el componente  ejecutar el 
 ```
 
 
-# BULLETS-DIAGRAMATION (English)
+# WHATSAPP-BUTTON (English)
 
 Whatsapp Button is a custom component to place a button that redirects us to whatsapp.
 
@@ -83,14 +76,7 @@ Configure the Manifest.json based on the following example:
   "vendor": "itgloberspartnercl",
   "name": "whatsapp-button",
   "version": "0.0.1",
-  "title": "WhatsApp Button Component",
-  "description": "Component button for WhatsApp that will receive a phone, a logo and a message",
-  "builders": {
-    "react": "3.x",
-    "messages": "1.x",
-    "docs": "0.x",
-    "store": "0.x"
-  },
+  "title": "WhatsApp Button Component"
 }
 ```
 ## Step 4 - Install necessary apps
